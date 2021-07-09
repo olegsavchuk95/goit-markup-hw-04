@@ -183,7 +183,9 @@ display: flex;
   letter-spacing: 0.06em;
 
   color: var(--white);
-  background-color: #2f303a;
+  background-image: url(../images/header-image-copy.jpg);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
 }
 
 /* ----КНОПКА-ГЕРОЙ---- */
